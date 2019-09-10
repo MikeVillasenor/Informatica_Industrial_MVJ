@@ -25,4 +25,4 @@ float ADCRead::readVoltage()
 	return readRaw() * _conversion;
 }
 //////
-/////
+///// Espero que aparezca un cambio
